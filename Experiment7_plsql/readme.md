@@ -1,6 +1,6 @@
 # Experiment 7: PL/SQL – Variables, Control Structures and Loops
-## Name: Arshitha MS
-## Reg.no:212223240015
+## Name: HANSHIKA VARTHINI R
+## Reg.no:212223240046
 ## AIM
 To write and execute simple PL/SQL programs using variables, loops, and conditional statements.
 
